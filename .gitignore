@@ -1,3 +1,5 @@
-source_code/brofit/wp-content/uploads/
-source_code/brofit/wp-content/cache/
-source_code/brofit/.htaccess
+source_code/wp-content/uploads/
+source_code/wp-content/cache/
+source_code/.htaccess
+source_code/wp-content/upgrade/
+*.log
